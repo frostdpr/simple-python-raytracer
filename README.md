@@ -7,20 +7,20 @@ Requires Python3
 
 ## Supported operations
 
-### sphere x y z r
+sphere x y z r
 
-### sun x y z
+sun x y z
 
-### color r g b
+color r g b
 
-### plane A B C D
+plane A B C D
 
-### shininess s
+shininess s
 
-### fisheye 
+fisheye 
 
-### eye ex ey ez
+eye ex ey ez
 
-### forward fx fy fz
+forward fx fy fz
 
-### up ux uy uz
+up ux uy uz
