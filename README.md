@@ -21,7 +21,6 @@ See `examples` for sample input files.
 Places a sphere of radius *r* with it's center at *x y z*.
 
 
-
 + sun *x y z*
 Places a light source infinitely far away in the *x y z* direction.
 
@@ -31,15 +30,18 @@ Places a light source infinitely far away in the *x y z* direction.
 Places a point light source centered at *x y z*. Uses the current color as the color of the bulb. Falls off in intensity following the inverse square law.
 
 ![](https://raw.githubusercontent.com/frostdpr/simple-python-raytracer/master/output/inside.png)
+
 + color *r g b*
 Sets the current drawing color to *r g b*. Colors are taken as floating point between 0 and 1, where 0, 0, 0 is black and 1, 1, 1 is white.
 
 ![](https://raw.githubusercontent.com/frostdpr/simple-python-raytracer/master/output/color.png)
+
 + plane *A B C D*
 
 Places a plane that satisifes the plane equation Ax+By+Cz+D=0
 
 ![](https://raw.githubusercontent.com/frostdpr/simple-python-raytracer/master/output/plane.png)
+
 + shininess *s*
 Sets flag so future objects have a reflectivity *s*, between 0 and 1.
 
