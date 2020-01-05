@@ -19,7 +19,7 @@ See `examples` for sample input files.
 
 #### sphere *x y z r*
 
-Places a sphere of radius *r* with it's center at *x y z*.
+Places a sphere of radius *r* with its center at *x y z*.
 
 
 #### sun *x y z*
