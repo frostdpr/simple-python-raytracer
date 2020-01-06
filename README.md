@@ -1,7 +1,5 @@
 # simple-python-raytracer
 
-Requires Python3
-
 ![](https://raw.githubusercontent.com/frostdpr/simple-python-raytracer/master/output/shadow-plane.png)
 
 ![](https://raw.githubusercontent.com/frostdpr/simple-python-raytracer/master/output/shadow-suns.png)
@@ -11,9 +9,12 @@ Requires Python3
 ![](https://raw.githubusercontent.com/frostdpr/simple-python-raytracer/master/output/many.png)
 
 ## Usage
+
+Requires Python3
+
 `python raytrace.py input_file.txt`
 
-See `examples` for sample input files.
+See `examples` for some sample input files.
 
 ## Supported operations
 
