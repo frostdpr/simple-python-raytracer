@@ -1,4 +1,4 @@
-# simple-python-raytracer
+# Rudimentary software raytracer
 
 ![](https://raw.githubusercontent.com/frostdpr/simple-python-raytracer/master/output/shadow-plane.png)
 
